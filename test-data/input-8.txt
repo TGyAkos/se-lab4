@@ -1,0 +1,2 @@
+GT4500,1,1.0,1,0.0 # Az elsődleges tár hibás (vagy üres), a másodlagosban 1 jó torpedó van
+TORPEDO,ALL

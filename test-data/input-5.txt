@@ -1,0 +1,3 @@
+GT4500,1,1.0,1,0.0 # Az elsődlegesben 1 hibás torpedó (1.0 hiba), a másodlagosban 1 jó torpedó (0.0 hiba) van\
+TORPEDO,SINGLE
+TORPEDO,SINGLE

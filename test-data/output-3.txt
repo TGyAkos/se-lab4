@@ -1,0 +1,2 @@
+SUCCESS # mivel a hajó sikeresen elkészült elkészült 
+SUCCESS # elsődleges üres volt, így a másodlagos tár tüzelt sikeresen.

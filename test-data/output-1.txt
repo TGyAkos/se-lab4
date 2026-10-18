@@ -1,0 +1,2 @@
+SUCCESS # mivel a hajó sikeresen elkészült elkészült 
+SUCCESS # Mivel a másodlagos tár biztosan hibázna, a siker bizonyítja, hogy az elsődleges tár tüzelt először.

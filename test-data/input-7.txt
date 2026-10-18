@@ -1,0 +1,3 @@
+GT4500,1,0.0,1,0.0 # Mindkét tárban 1-1 jó torpedó van
+TORPEDO,ALL
+TORPEDO,SINGLE
