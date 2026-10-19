@@ -1,0 +1,4 @@
+SUCCESS # mivel a hajó sikeresen elkészült elkészült 
+SUCCESS # elsődleges lőtt
+FAIL # másodlagos próbált lőni, de elromlott
+SUCCESS # újra az elsődleges lőtt

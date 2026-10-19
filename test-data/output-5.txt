@@ -1,0 +1,3 @@
+SUCCESS # mivel a hajó sikeresen elkészült elkészült 
+FAIL # az elsődleges hibázott, és nem lőtt a másodlagosból
+SUCCESS # a másodlagosban megmaradt a torpedó, és most sikeresen kilőtte
